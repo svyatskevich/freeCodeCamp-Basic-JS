@@ -1,6 +1,5 @@
 function convertToInteger(str) {
-let strTo = parseInt(str);
-return strTo;
+return parseInt(str);
 }
 
 convertToInteger("56");
